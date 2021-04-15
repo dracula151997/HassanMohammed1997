@@ -6,7 +6,7 @@ Talented Android developer seeking for challenges, giving value to the market an
 
 Skills: Java / Kotlin / Ruby
 
-- 🔭 I’m currently working on UAE Barq 
+- 🔭 I’m currently working on Softex Software House
 - 🌱 I’m currently learning Flutter, Ruby on Rails framworks 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with Backend 
